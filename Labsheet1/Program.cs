@@ -6,6 +6,7 @@ namespace Labsheet1
         static void Main(string[] args)
         {
             Class1 lab1 = new Class1();
+
         }
     }
 }
