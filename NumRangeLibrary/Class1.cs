@@ -18,6 +18,7 @@ namespace NumRangeLibrary
 
             //display menu.
             DisplayMenu();
+
             do
             {
 
